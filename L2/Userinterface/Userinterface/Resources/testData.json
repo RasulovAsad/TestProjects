@@ -1,0 +1,7 @@
+﻿{
+  "ImageFileName": "%imageName%",
+  "passwordLength": 11,
+  "emailLength": 4,
+  "domainLength": 5,
+  "expectedTime": "00:00:00"
+}

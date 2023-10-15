@@ -1,0 +1,18 @@
+﻿{
+  "GetPostById": {
+    "postId": 99,
+    "expectedUserId": 10
+  },
+  "CreatePost": {
+    "userId": 1,
+    "id": 101,
+    "titleLength": 12,
+    "bodyLength": 12
+  },
+  "GetPostByImpossibleId": {
+    "impossiblePostId": 150
+  },
+  "GetUserById": {
+    "userId": 5
+  }
+}

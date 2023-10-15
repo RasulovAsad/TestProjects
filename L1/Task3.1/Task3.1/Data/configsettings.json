@@ -1,0 +1,6 @@
+﻿{
+  "browser": "CHROME",
+  "appurl": "https://demoqa.com/",
+  "waitSeconds": 10,
+  "isIncognito": true
+}

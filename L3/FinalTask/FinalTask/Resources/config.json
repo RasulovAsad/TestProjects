@@ -1,0 +1,5 @@
+﻿{
+  "startUrl": "http://localhost:8080/web",
+  "apiUrl": "http://localhost:8080/api",
+  "maxApiRequestTries": 10
+}

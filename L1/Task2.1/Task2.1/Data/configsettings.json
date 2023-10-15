@@ -1,0 +1,5 @@
+﻿{
+  "browser": "chrome",
+  "appurl": "https://store.steampowered.com/",
+  "wait": 10
+}

@@ -1,0 +1,7 @@
+﻿{
+  "apiUrl": "https://jsonplaceholder.typicode.com",
+  "getPosts": "/posts",
+  "getPost": "/posts/{0}",
+  "getUsers": "/users",
+  "getUser": "/users/{0}"
+}
